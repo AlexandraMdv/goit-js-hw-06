@@ -1,2 +1,2 @@
 # goit-js-hw-06
-Homework #6 Modul 6 JS - GoIT
+Acest repository este pentru tema #6 Modul 6 JavaScript - curs GoIT
